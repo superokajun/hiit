@@ -1,4 +1,4 @@
-const CACHE  = 'tabata-v2';
+const CACHE  = 'tabata-v3';
 const VOICE  = ['1','2','3','4','5','6','7','8','9','10','20','honme','start','rest','end'].map(n => './voice/' + n + '.mp3');
 const ASSETS = ['./','./index.html','./manifest.webmanifest','./icon-180.png','./icon-192.png','./icon-512.png'].concat(VOICE);
 
