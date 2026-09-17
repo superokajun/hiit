@@ -1,6 +1,6 @@
 {
-  "name": "タバタ式タイマー",
-  "short_name": "タバタ",
+  "name": "HIIT 全力疾走",
+  "short_name": "HIIT",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
